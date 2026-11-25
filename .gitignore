@@ -1,0 +1,11 @@
+publicar.local.json
+node_modules/
+.env
+*.tmp
+.claude/
+__pycache__/
+marca/
+*.png
+*.jpg
+*.jpeg
+*.webp

@@ -1,0 +1,13 @@
+{
+  "name": "inteligencia-design",
+  "version": "1.0.0",
+  "description": "A inteligência de direção de arte de peças estáticas (posts, carrosséis e anúncios) para qualquer segmento: entrevista de marca, pesquisa do mercado, copy nos 4 campos, prompt de imagem pronto, régua de criativo e os erros que já corrigimos.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test ferramentas/*.test.mjs",
+    "varredura": "node ferramentas/varredura.mjs",
+    "conferir": "node ferramentas/conferir-prompt.mjs"
+  },
+  "engines": { "node": ">=22" }
+}
