@@ -5,7 +5,7 @@ description: Conferência final de uma peça estática gerada (anúncio, post, c
 
 # Régua de criativo
 
-1. Leia `inteligencia-design/docs/04-regua-de-criativo.md` inteiro (é o coração do método).
+1. Leia `instrumentalista-design-sem-cara-de-ia/docs/04-regua-de-criativo.md` inteiro (é o coração do método).
 2. Abra a imagem e passe as 4 lentes, item a item. Avalie como quem rola o feed, depois como anunciante, nunca como
    designer.
 3. A Lente 4 é letra por letra: cada palavra contra a copy aprovada, cada acento, cada dígito, a logo pixel a pixel

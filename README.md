@@ -1,4 +1,4 @@
-# inteligencia-design
+# instrumentalista-design-sem-cara-de-ia
 
 **A inteligência de direção de arte de peças estáticas, pronta para instalar no Claude Code, no Codex ou em qualquer
 estrutura de IA.** Posts, carrosséis e anúncios de **qualquer segmento**, com o mesmo método que usamos todos os
@@ -64,7 +64,7 @@ Conferir prompt, fazer a versão branca da logo e compor a logo são código: cu
 ## Experimente em 1 minuto
 
 ```bash
-git clone https://github.com/viniciuscamp0s/inteligencia-design.git && cd inteligencia-design
+git clone https://github.com/viniciuscamp0s/instrumentalista-design-sem-cara-de-ia.git && cd instrumentalista-design-sem-cara-de-ia
 npm test                                          # testes, sem dependências
 echo 'Static ad, square 1:1. Logo inside a white rounded badge. 8K.' | node ferramentas/conferir-prompt.mjs
 ```

@@ -3,7 +3,7 @@
 | Onde | Como |
 |---|---|
 | **Claude Code** | o [`INSTALAR.md`](../INSTALAR.md) copia as skills para `.claude/skills/`. Peça em linguagem natural: "anúncio para a minha hamburgueria", "carrossel sobre clareamento", "modela esse anúncio para a minha loja" |
-| **Codex** (ou outro agente de código) | a instalação cria um `AGENTS.md` que aponta para `inteligencia-design/docs/` como base e para `skills/*/SKILL.md` como procedimentos |
+| **Codex** (ou outro agente de código) | a instalação cria um `AGENTS.md` que aponta para `instrumentalista-design-sem-cara-de-ia/docs/` como base e para `skills/*/SKILL.md` como procedimentos |
 | **ChatGPT (Projetos ou GPT personalizado)** | suba os `docs/01` a `docs/11` e a sua `marca/ficha.md` como arquivos do projeto; nas instruções, cole o conteúdo de [`skills/direcao-de-arte/SKILL.md`](../skills/direcao-de-arte/SKILL.md). O prompt de imagem sai na mesma conversa, e você gera ali mesmo |
 | **Claude.ai (Projetos)** | mesmo esquema: docs e ficha como conhecimento do projeto, a skill de direção de arte nas instruções |
 | **Gemini (Gems)** | mesmo esquema; a geração de imagem do Gemini aceita o prompt, com mais cuidado no texto longo |

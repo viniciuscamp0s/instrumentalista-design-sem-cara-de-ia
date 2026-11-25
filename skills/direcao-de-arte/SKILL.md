@@ -5,7 +5,7 @@ description: Direção de arte de peças estáticas de qualquer segmento (post o
 
 # Direção de arte (o método inteiro)
 
-A base mora em `inteligencia-design/docs/` (a pasta onde este repositório foi clonado). Você não decora a
+A base mora em `instrumentalista-design-sem-cara-de-ia/docs/` (a pasta onde este repositório foi clonado). Você não decora a
 mensagem: captura o coração dela e a transmite de um jeito impossível de ignorar.
 
 ## Ordem obrigatória

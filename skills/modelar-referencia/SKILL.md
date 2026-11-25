@@ -5,7 +5,7 @@ description: Recria um anúncio ou post de referência para outra marca, decompo
 
 # Modelar referência
 
-Base: `inteligencia-design/docs/09-modelar-referencia.md`.
+Base: `instrumentalista-design-sem-cara-de-ia/docs/09-modelar-referencia.md`.
 
 1. **Leia todas as referências** antes de qualquer prompt. Várias peças: pergunte se recria o pack todo ou algumas.
 2. **Estilo pode, conteúdo nunca.** Composição, luz, tipografia, efeitos e ritmo podem sair idênticos. O texto se
@@ -15,5 +15,5 @@ Base: `inteligencia-design/docs/09-modelar-referencia.md`.
    rodapé) e monte a **tabela de substituição**; pergunte só o que falta (oferta, prova, cena adaptada ao produto).
 5. **Um prompt por imagem**, com "use it only as layout and style inspiration, do not reproduce it".
 6. Antes de entregar, rode
-   `node inteligencia-design/ferramentas/conferir-prompt.mjs prompt.txt --proibir "<nome da marca da referência>"`
+   `node instrumentalista-design-sem-cara-de-ia/ferramentas/conferir-prompt.mjs prompt.txt --proibir "<nome da marca da referência>"`
    para pegar contaminação cruzada, e confira se a cena faz sentido para o produto novo.

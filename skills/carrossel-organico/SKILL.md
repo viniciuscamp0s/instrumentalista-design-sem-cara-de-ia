@@ -5,7 +5,7 @@ description: Carrossel e card orgânico de feed para qualquer segmento, do desfe
 
 # Carrossel orgânico
 
-Base: `inteligencia-design/docs/08-carrossel-organico.md`.
+Base: `instrumentalista-design-sem-cara-de-ia/docs/08-carrossel-organico.md`.
 
 1. **Desfecho antes do tema:** o que o post precisa fazer? Escolha o arquétipo pela tabela (Sistema, Fórmula,
    Coleção, Autópsia, Preenchível, Confissão).

@@ -5,7 +5,7 @@ description: Escreve o prompt de imagem de uma peça estática (anúncio, post, 
 
 # Prompt de imagem
 
-Base: `inteligencia-design/docs/07-prompt-de-imagem.md`.
+Base: `instrumentalista-design-sem-cara-de-ia/docs/07-prompt-de-imagem.md`.
 
 1. Estrutura: primeira linha (tipo, proporção, qualidade, idioma) · ATTACHMENTS · BRAND COLORS · SCENE · LAYOUT &
    HIERARCHY · TEXT ON THE ARTWORK · SPACING · LOGO · QUALITY.
@@ -15,7 +15,7 @@ Base: `inteligencia-design/docs/07-prompt-de-imagem.md`.
    escuro, pousada direto na arte com sombra suave. Nunca badge, chapa, pílula ou "logo na parede".
 4. Uma proporção por prompt; no máximo 4 peças por bloco; com referência, um prompt por imagem.
 5. Nunca "8K", telefone, travessão na arte, marca real de terceiro, número não confirmado.
-6. Rode `node inteligencia-design/ferramentas/conferir-prompt.mjs` no prompt. Bloqueio = corrigir antes de entregar.
+6. Rode `node instrumentalista-design-sem-cara-de-ia/ferramentas/conferir-prompt.mjs` no prompt. Bloqueio = corrigir antes de entregar.
 7. Entregue no chat, **primeiro conteúdo da mensagem, num bloco de código único**, e diga quais arquivos anexar.
 8. O gerador errou a logo mesmo assim? Plano B: gerar com o canto vazio e compor com
-   `python inteligencia-design/ferramentas/logo.py compor arte.png marca/logo-branca.png --sombra`.
+   `python instrumentalista-design-sem-cara-de-ia/ferramentas/logo.py compor arte.png marca/logo-branca.png --sombra`.

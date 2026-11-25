@@ -5,7 +5,7 @@ description: Afia um texto que já tem a estratégia certa (headline, texto de a
 
 # Texto de impacto
 
-Base: `inteligencia-design/docs/06-copy-na-arte.md`, seção "Texto de alto impacto".
+Base: `instrumentalista-design-sem-cara-de-ia/docs/06-copy-na-arte.md`, seção "Texto de alto impacto".
 
 1. Leia o texto inteiro e entenda a intenção. Conte os movimentos (afirmação, contraste, conclusão, convite): o
    resultado tem os mesmos, mais afiados.
